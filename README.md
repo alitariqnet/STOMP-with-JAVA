@@ -1,2 +1,2 @@
-# STOMP-with-JAVA
-STOMP implementation in Java both server and client
+# STOMPCLIENT-with-JAVA
+STOMP implementation in Java for client
